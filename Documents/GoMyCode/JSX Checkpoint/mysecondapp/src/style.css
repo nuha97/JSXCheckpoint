@@ -1,0 +1,17 @@
+.title 
+{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 50px;
+
+}
+.red
+{
+    color: red;
+}
+img
+{
+    max-width: 96.5%;
+    max-height: 90%;
+    margin: 10px 25px;
+}
